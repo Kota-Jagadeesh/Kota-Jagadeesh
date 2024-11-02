@@ -1,11 +1,19 @@
 <h1 align="center">Hello there!👋</h1>
 <h3 align="center">I'm jagadeeshwar reddy Kota, Passionate AI & DS learner, fueled by curiosity and innovation.</h3>
 
-- 🌱 I’m currently learning : **🛰️ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
+- 🌱 I’m currently learning **🛰️BASICS OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
 
 - 📫 How to reach me : **kota.jagadesh123@gmail.com**
 
 - ⚡ Fun fact : **AI algorithms can now learn faster than ever thanks to GPU advancements!**
+
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-18-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-18-bot&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="Trophy" />
+</p>
 
 <h3 align="left">🌐Connect with me on the web:</h3>
 <p align="left">
