@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning : **🛰️ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
 
-- 💬 Ask me about : **data visualization techniques.💻**
-
 - 📫 How to reach me : **kota.jagadesh123@gmail.com**
 
 - ⚡ Fun fact : **AI algorithms can now learn faster than ever thanks to GPU advancements!**
