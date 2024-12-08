@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-18-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeesh-18-bot&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
-
 <h3 align="left">🌐Connect with me on the web:</h3>
 <p align="left">
 <a href="https://twitter.com/@jagadesh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagadesh__" height="30" width="40" /></a>
