@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!👋</h1>
-<h3 align="center">I'm jagadeeshwar reddy Kota, Passionate AI & DS learner, fueled by curiosity and innovation.</h3>
+<h3 align="center">I'm jagadeeshwar reddy Kota, Passionate AI & Data Science learner, fueled by curiosity and innovation.</h3>
 
 - 🌱 I’m currently learning **🛰️BASICS OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
 
