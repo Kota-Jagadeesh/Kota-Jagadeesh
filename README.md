@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!👋</h1>
+<h1 align="center">Hello there! <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" /></p></h1>
 <h3 align="center">I'm jagadeeshwar reddy Kota, Passionate AI & Data Science learner, fueled by curiosity and innovation.</h3>
 
 - 🌱 I’m currently learning **🛰️BASICS OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
@@ -23,6 +23,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacofee "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee " /></a></p><br><br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-18-bot&langs_count=10&layout=compact&theme=radical)](https://github.com/Jagadeesh-18-bot)
+
+
+
 
 
 
