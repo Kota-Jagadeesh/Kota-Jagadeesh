@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : **kota.jagadesh123@gmail.com**
 
-- ⚡ Fun fact : **AI algorithms can now learn faster than ever thanks to GPU advancements!**
+- ⚡ Fun fact : **.......!**
 
 - <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-18-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
