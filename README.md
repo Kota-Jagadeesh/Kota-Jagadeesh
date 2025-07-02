@@ -1,41 +1,36 @@
-<h1 align="center">Hello there! <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" /></p></h1>
-<h3 align="center">I'm jagadeeshwar reddy Kota, Passionate AI & Data Science learner, fueled by curiosity and innovation.</h3>
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-- 🌱 I’m currently learning **🛰️BASICS OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE‼️**
-
-- 📫 How to reach me : **kota.jagadesh123@gmail.com**
-
-- ⚡ Fun fact : **If it works ✅, then  don't touch it ✋!"**
-
-
-
-
-
-
-*
-
-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagadeesh-18-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=FF00FF&background=0D1117¢er=true&vCenter=true&width=450&lines=//+Jagadeesh+Kota;Initializing+Code+Matrix..." alt="Typing SVG" />
 </p>
 
-<h3 align="left">🌐Connect with me on the web:</h3>
-<p align="left">
-<a href="https://twitter.com/@jagadesh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagadesh__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/JAGADEESHWAR REDDY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JAGADEESHWAR REDDY" height="30" width="40" /></a>
-<a href="https://fb.com/jagadeesh360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadeesh360" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jagadeesh_018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jagadeesh_018" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jagadeesh_kota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jagadeesh_kota" height="30" width="40" /></a>
-<a href="https://discord.gg/88m5MUzM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="88m5MUzM" height="30" width="40" /></a>
+---
+
+### 🌆 Code Nexus: VoidRaven ⚡️
+
+*Fix the cause, 🛠️ not the symptom.*  
+— **Steve Maguire**
+
+#### 🌌 Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-00FFFF?logo=python&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-React-FF00FF?logo=react&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Next.js-39FF14?logo=next.js&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Flutter-00FFFF?logo=flutter&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-C-FF00FF?logo=c&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Git-39FF14?logo=git&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-HTML5-00FFFF?logo=html5&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-CSS3-FF00FF?logo=css3&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-JavaScript-39FF14?logo=javascript&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Flask-00FFFF?logo=flask&logoColor=000000&style=plastic" />
 </p>
 
-<h3 align="left">Support:</h3>
+#### 🔗 Interface Links
+- 📡 Email: [kota.jagadesh123@gmail.com](mailto:kota.jagadesh123@gmail.com)
+- 💾 LinkedIn: [jagadeeshwar-reddy-kota](https://www.linkedin.com/in/jagadeeshwar-reddy-kota)
+- 🌐 Portfolio: [kota-jagadeesh.github.io](https://kota-jagadeesh.github.io)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeesh-18-bot&langs_count=10&layout=compact&theme=radical&count_private=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Plug+Into+the+Grid-00B7EB?style=for-the-badge&logo=codeigniter" />
+</p>
