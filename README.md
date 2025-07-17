@@ -34,3 +34,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Plug+Into+the+Grid-00B7EB?style=for-the-badge&logo=codeigniter" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Kota-Jagadeesh">
+    <img src="https://komarev.com/ghpvc/?username=Kota-Jagadeesh&label=Profile%20Views&color=ff69b5&style=square" alt="Jagadeesh" />
+  </a>
+</p>
+
