@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/-CSS3-FF00FF?logo=css3&logoColor=000000&style=plastic" />
   <img src="https://img.shields.io/badge/-JavaScript-39FF14?logo=javascript&logoColor=000000&style=plastic" />
   <img src="https://img.shields.io/badge/-Flask-00FFFF?logo=flask&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Kotlin-FF00FF?logo=Kotlin&logoColor=000000&style=plastic" />
+
 </p>
 
 #### 🔗 Interface Links
