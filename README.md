@@ -9,8 +9,7 @@
 
 ### 🌆 Code Nexus: VoidRaven ⚡️
 
-*Fix the cause, 🛠️ not the symptom.*  
-— **Steve Maguire**
+*Fix the cause, 🛠️ not the symptom.* — **Steve Maguire**
 
 #### 🌌 Tech Arsenal
 <p align="center">
@@ -35,6 +34,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Plug+Into+the+Grid-00B7EB?style=for-the-badge&logo=codeigniter" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kotajagadeesh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 </p>
 
 <p align="center">
